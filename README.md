@@ -1,16 +1,11 @@
-# tictactoe_
+# Tictactoe
 
-A new Flutter project.
+This is an Tic Tac Toe game developed using flutter, I have used the concept of Soft UI also known as Neumorphism to design this app, this is the landing page of our app, The reset button at the bottom intializes the game to the intial state at any point of the game.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/71991617/172389576-a4ccf4b6-09e3-4b5a-b201-7cac1937ac98.png)
 
-This project is a starting point for a Flutter application.
+------------------------------------------------------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
+When any of the player wins the match a dialog box appears, which congrats the winner, and the dialog box even have the option to play the game again.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/71991617/172390333-d1c068a1-ff77-44c6-91bb-3ddc3f80e7d7.png)
